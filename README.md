@@ -21,7 +21,7 @@ The knowledge is there — the fluency isn't. Two years of AI-assisted coding di
 
 This repo is the **durable layer**: skills that are identical across every company and should never be crammed.
 
-The parent repo holds the **company layer** — per-company question banks, live-loop prep, and the [Reps drill app](../drill-app/) (1.4k tagged items covering SQL/Python/pandas *mechanics*, deployed at https://aenrichus.github.io/interview_prep_2026/).
+The sibling [`interview_prep_2026`](https://github.com/aenrichus/interview_prep_2026) repo holds the **company layer** — per-company question banks, live-loop prep, and the Reps drill app (1.4k tagged items covering SQL/Python/pandas *mechanics*, deployed at https://aenrichus.github.io/interview_prep_2026/). Locally it sits at `../interview_prep_2026/drill-app/`.
 
 **Don't duplicate the drill app.** For SQL and pandas syntax reflexes, use it. This repo covers what it doesn't:
 
@@ -73,7 +73,7 @@ foundations/   CS fundamentals — complexity, data structures, Python mechanics
 algorithms/    LeetCode-style solutions, organized by pattern
 stats/         spoken-aloud flashcards + written explanations
 causal/        design write-ups (prose, not code)
-sql/           notes and idioms (drills live in the parent drill-app)
+sql/           notes and idioms (mechanics drills live in the sibling repo's drill-app)
 pandas/        notes and idioms
 log.md         every session: date, area, problems, time, where I stalled, fix
 PROGRESS.md    competency checklist + metrics

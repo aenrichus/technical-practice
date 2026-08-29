@@ -48,7 +48,7 @@ Be direct. He explicitly asked for honesty over encouragement and has said vague
 
 **Stats.** Cards from `stats/flashcards.md`. He answers **out loud**, cold, no notes. Grade against the written answer. Anything he misses goes into spaced repetition.
 
-**SQL.** For syntax reflexes, point him at the parent drill app (`../drill-app/index.html`, or https://aenrichus.github.io/interview_prep_2026/). Use this repo's SQL time for *full problems* — multi-CTE, window functions, funnel and cohort queries — where he writes a complete query under time.
+**SQL.** For syntax reflexes, point him at the Reps drill app in the sibling `interview_prep_2026` repo (`../interview_prep_2026/drill-app/index.html`, or https://aenrichus.github.io/interview_prep_2026/ — the hosted version is the reliable link). Use this repo's SQL time for *full problems* — multi-CTE, window functions, funnel and cohort queries — where he writes a complete query under time.
 
 **pandas.** Same split: mechanics in the drill app, full munging problems here.
 
